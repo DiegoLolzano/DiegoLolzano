@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegololzano&show_icons=true&theme=dark&title_color=16F00B&locale=en" alt="diegololzano" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=diegololzano&theme=dark" alt="diegololzano" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=diegololzano&theme=dark" alt="diegololzano" />
 
 
 

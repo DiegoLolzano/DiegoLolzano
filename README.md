@@ -1,28 +1,24 @@
 <h1 align="center">Hi 👋, I'm Diego Lozano</h1>
-<h3 align="center">A Mexican high school graduate passionate in Robotics!</h3>
+<h3 align="center"> 🇲🇽 A Mexican high school graduate passionate in Robotics!</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Logging and Data Visualization**
+# 💫 About Me:
+🏳️‍🌈 Proud Demiboy and Bisexual! (He/They)<br>💬 Ask me about FIRST Robotics!<br>🌱 I’m currently learning Machine Learning and Logging and Data Visualization<br>📫 How to reach me: diegolozanor66@gmail.com
 
-- 🏳️‍🌈 Proud Demiboy and Bisexual! [(He/They)]((He/They))
 
-- 💬 Ask me about **FIRST Robotics!**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DiegoLolzano&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoLolzano&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLolzano&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **diegolozanor66@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DiegoLolzano&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/diegololzano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diegololzano" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=DiegoLolzano&icon=5&color=11)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=diegololzano&show_icons=true&theme=dark&title_color=16F00B&locale=en" alt="diegololzano" />
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=diegololzano&theme=dark" alt="diegololzano" />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegololzano&show_icons=true&theme=dark&title_color=16F00B&text_color=939393&locale=en&layout=compact" alt="diegololzano" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 

@@ -2,7 +2,7 @@
 <h3 align="center"> 🇲🇽 A Mexican high school graduate passionate in Robotics!</h3>
 
 # 💫 About Me:
-🏳️‍🌈 Proud Demiboy and Bisexual! (He/They)<br>💬 Ask me about FIRST Robotics!<br>🌱 I’m currently learning Machine Learning and Logging and Data Visualization<br>📫 How to reach me: diegolozanor66@gmail.com
+🏳️‍🌈 Proud Demiboy and Bisexual!<br>💬 Ask me about FIRST Robotics!<br>🌱 I’m currently learning Machine Learning and Logging and Data Visualization<br>📫 How to reach me: diegolozanor66@gmail.com
 
 
 # 💻 My Skills:

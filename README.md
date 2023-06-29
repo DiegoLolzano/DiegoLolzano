@@ -15,8 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DiegoLolzano&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=DiegoLolzano&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
